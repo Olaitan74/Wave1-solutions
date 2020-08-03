@@ -11,5 +11,6 @@ print(verse)
 # Bonus: practice using .format() to output your answers in descriptive messages!
 
 print(len(verse))
-print(verse.find('and'))
+print(verse.index('and')
+print(verse.rfind('you'))
 print(verse.count('you'))
